@@ -7,7 +7,7 @@ export const BUSINESS = {
   name: 'Sugar Rush Sweet And Savory',
   short: 'Sugar Rush',
   tagline: 'Sweet and Savory',
-  category: 'Minimarket / Kafe & Resto',
+  category: 'Kafe & Resto',
   rating: 4.5,
   reviewCount: 660,
   address:

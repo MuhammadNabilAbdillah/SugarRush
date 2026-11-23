@@ -6,7 +6,7 @@ export default function Hero() {
     <section id="ringkasan" className="hero">
       <div className="container hero__grid">
         <div className="hero__copy">
-          <p className="hero__kicker">Kafe &bull; Resto &bull; Minimarket</p>
+          <p className="hero__kicker">Kafe &bull; Resto</p>
           <h1 className="hero__title">
             <span>Perjalanan Rasa</span>
             <span className="script">Manis &amp; Gurih</span>

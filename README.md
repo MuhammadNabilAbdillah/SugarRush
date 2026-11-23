@@ -1,6 +1,6 @@
 # Sugar Rush Sweet And Savory — Website
 
-Website React JS (Vite) untuk kafe, resto & minimarket **Sugar Rush Sweet And Savory**, Bontang.
+Website React JS (Vite) untuk kafe & resto **Sugar Rush Sweet And Savory**, Bontang.
 
 ## Menjalankan
 

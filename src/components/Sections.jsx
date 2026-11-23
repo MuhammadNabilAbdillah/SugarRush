@@ -80,7 +80,7 @@ export function AboutBand() {
           </h2>
           <p>
             Tempat untuk bersantai, berkumpul, dan menikmati sajian manis maupun gurih. Selain makan di
-            tempat, tersedia pesan antar, antar tanpa bertemu, dan belanja kilat di minimarket kami.
+            tempat, tersedia pesan antar dan antar tanpa bertemu.
           </p>
           <a className="btn btn--outline" href="#lokasi">
             Lihat Lokasi <Icon name="arrow" size={16} />
